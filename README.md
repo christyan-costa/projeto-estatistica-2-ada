@@ -9,9 +9,9 @@
 
 
 
--  **Fonte:** O dataset que usaremos foi obtido do centro clínico da universidade de Wisconsin (e pode ser encontrado em https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29, ou https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/download?datasetVersionNumber=2)
+**Fonte:** O dataset que usaremos foi obtido do centro clínico da universidade de Wisconsin (e pode ser encontrado em https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29, ou https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/download?datasetVersionNumber=2)
 
-- **Informações gerais**: As ''features'' apresentadas no dataset foram extraídas a partir de imagens de amostras retiradas de material citológico para análise patológica e descrevem características dos núcleos celulares contidos nas amostras. A descrição das técnicas e métodos usados para extração das características (features) do dataset pode ser encontrada na referência: _Street, W. N., Wolberg, W. H., & Mangasarian, O. L. (1993, July). Nuclear feature extraction for breast tumor diagnosis. In Biomedical image processing and biomedical visualization (Vol. 1905, pp. 861-870). SPIE_ ([link](https://minds.wisconsin.edu/bitstream/handle/1793/59692/TR1131.pdf?sequence=1)).
+**Informações gerais**: As ''features'' apresentadas no dataset foram extraídas a partir de imagens de amostras retiradas de material citológico para análise patológica e descrevem características dos núcleos celulares contidos nas amostras. A descrição das técnicas e métodos usados para extração das características (features) do dataset pode ser encontrada na referência: _Street, W. N., Wolberg, W. H., & Mangasarian, O. L. (1993, July). Nuclear feature extraction for breast tumor diagnosis. In Biomedical image processing and biomedical visualization (Vol. 1905, pp. 861-870). SPIE_ ([link](https://minds.wisconsin.edu/bitstream/handle/1793/59692/TR1131.pdf?sequence=1)).
 
 **Objetivo**
 
